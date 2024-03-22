@@ -1,0 +1,6 @@
+version: 1
+
+build_packs:
+  geckodriver:
+    # Available versions: [0.29.1, 0.30.0, 0.31.0, 0.32.0]
+    version: 0.30.0
