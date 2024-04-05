@@ -15,7 +15,7 @@
 require 'test_helper'
 
 class MovieTest < ActiveSupport::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
+  test "the truth" do
+    asser true
+  end
 end
